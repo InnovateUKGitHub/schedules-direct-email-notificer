@@ -1,0 +1,170 @@
+[
+    {
+        "headend": "1000013",
+        "transport": "Cable",
+        "location": "London",
+        "lineups": [
+            {
+                "name": "BT TV - Cable",
+                "lineup": "GBR-1000013-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000013-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1000014",
+        "transport": "Cable",
+        "location": "London",
+        "lineups": [
+            {
+                "name": "Freeview - Cable",
+                "lineup": "GBR-1000014-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000014-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1000015",
+        "transport": "Cable",
+        "location": "London",
+        "lineups": [
+            {
+                "name": "Virgin - Cable",
+                "lineup": "GBR-1000015-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000015-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1000016",
+        "transport": "Cable",
+        "location": "London",
+        "lineups": [
+            {
+                "name": "Sky SD - Cable",
+                "lineup": "GBR-1000016-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000016-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1000017",
+        "transport": "Cable",
+        "location": "London",
+        "lineups": [
+            {
+                "name": "Freesat - Cable",
+                "lineup": "GBR-1000017-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000017-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1000118",
+        "transport": "Cable",
+        "location": "National",
+        "lineups": [
+            {
+                "name": "United Kingdom - Cable",
+                "lineup": "GBR-1000118-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000118-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1000193",
+        "transport": "Cable",
+        "location": "National",
+        "lineups": [
+            {
+                "name": "United Kingdom (extended) - Cable",
+                "lineup": "GBR-1000193-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000193-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1000197",
+        "transport": "Cable",
+        "location": "London",
+        "lineups": [
+            {
+                "name": "Sky HD - Cable",
+                "lineup": "GBR-1000197-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000197-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1000449",
+        "transport": "Cable",
+        "location": "National",
+        "lineups": [
+            {
+                "name": "Sky SD - Cable",
+                "lineup": "GBR-1000449-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000449-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1000450",
+        "transport": "Cable",
+        "location": "National",
+        "lineups": [
+            {
+                "name": "Sky HD - Cable",
+                "lineup": "GBR-1000450-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1000450-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1002100",
+        "transport": "Cable",
+        "location": "National",
+        "lineups": [
+            {
+                "name": "Freesat from Sky - Cable",
+                "lineup": "GBR-1002100-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1002100-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1002101",
+        "transport": "Cable",
+        "location": "National",
+        "lineups": [
+            {
+                "name": "Talk Talk - Cable",
+                "lineup": "GBR-1002101-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1002101-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1002757",
+        "transport": "Cable",
+        "location": "London",
+        "lineups": [
+            {
+                "name": "YouView - Cable",
+                "lineup": "GBR-1002757-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1002757-DEFAULT"
+            }
+        ]
+    },
+    {
+        "headend": "1007913",
+        "transport": "Cable",
+        "location": "London",
+        "lineups": [
+            {
+                "name": "Sky Q - Cable",
+                "lineup": "GBR-1007913-DEFAULT",
+                "uri": "/20141201/lineups/GBR-1007913-DEFAULT"
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "tveen",
+  "version": "0.0.1",
+  "description": "Fetches tv schedules and sends alerts",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.405.0",
+    "axios": "^0.18.0",
+    "js-sha1": "^0.6.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.11.1",
+    "eslint-config-aerian": "^1.0.5",
+    "prettier": "^1.15.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

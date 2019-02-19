@@ -1,0 +1,4972 @@
+{
+    "map": [
+        {
+            "stationID": "30644",
+            "channel": "1"
+        },
+        {
+            "stationID": "17154",
+            "channel": "2"
+        },
+        {
+            "stationID": "17468",
+            "channel": "3"
+        },
+        {
+            "stationID": "17155",
+            "channel": "4"
+        },
+        {
+            "stationID": "17157",
+            "channel": "5"
+        },
+        {
+            "stationID": "20630",
+            "channel": "6"
+        },
+        {
+            "stationID": "84926",
+            "channel": "8"
+        },
+        {
+            "stationID": "20684",
+            "channel": "9"
+        },
+        {
+            "stationID": "44643",
+            "channel": "10"
+        },
+        {
+            "stationID": "48021",
+            "channel": "11"
+        },
+        {
+            "stationID": "24305",
+            "channel": "12"
+        },
+        {
+            "stationID": "56892",
+            "channel": "13"
+        },
+        {
+            "stationID": "47657",
+            "channel": "14"
+        },
+        {
+            "stationID": "21494",
+            "channel": "15"
+        },
+        {
+            "stationID": "21810",
+            "channel": "16"
+        },
+        {
+            "stationID": "45828",
+            "channel": "17"
+        },
+        {
+            "stationID": "31786",
+            "channel": "18"
+        },
+        {
+            "stationID": "31783",
+            "channel": "19"
+        },
+        {
+            "stationID": "82575",
+            "channel": "20"
+        },
+        {
+            "stationID": "52335",
+            "channel": "21"
+        },
+        {
+            "stationID": "24669",
+            "channel": "22"
+        },
+        {
+            "stationID": "79940",
+            "channel": "23"
+        },
+        {
+            "stationID": "48020",
+            "channel": "24"
+        },
+        {
+            "stationID": "21257",
+            "channel": "25"
+        },
+        {
+            "stationID": "90257",
+            "channel": "26"
+        },
+        {
+            "stationID": "53059",
+            "channel": "27"
+        },
+        {
+            "stationID": "25117",
+            "channel": "28"
+        },
+        {
+            "stationID": "33882",
+            "channel": "29"
+        },
+        {
+            "stationID": "52336",
+            "channel": "30"
+        },
+        {
+            "stationID": "97330",
+            "channel": "31"
+        },
+        {
+            "stationID": "81450",
+            "channel": "32"
+        },
+        {
+            "stationID": "65160",
+            "channel": "33"
+        },
+        {
+            "stationID": "98366",
+            "channel": "34"
+        },
+        {
+            "stationID": "29693",
+            "channel": "35"
+        },
+        {
+            "stationID": "98903",
+            "channel": "36"
+        },
+        {
+            "stationID": "62391",
+            "channel": "37"
+        },
+        {
+            "stationID": "102471",
+            "channel": "38"
+        },
+        {
+            "stationID": "73970",
+            "channel": "39"
+        },
+        {
+            "stationID": "74024",
+            "channel": "40"
+        },
+        {
+            "stationID": "44718",
+            "channel": "41"
+        },
+        {
+            "stationID": "58793",
+            "channel": "42"
+        },
+        {
+            "stationID": "27993",
+            "channel": "43"
+        },
+        {
+            "stationID": "77749",
+            "channel": "44"
+        },
+        {
+            "stationID": "25630",
+            "channel": "45"
+        },
+        {
+            "stationID": "21793",
+            "channel": "46"
+        },
+        {
+            "stationID": "75804",
+            "channel": "47"
+        },
+        {
+            "stationID": "46306",
+            "channel": "48"
+        },
+        {
+            "stationID": "30157",
+            "channel": "49"
+        },
+        {
+            "stationID": "97281",
+            "channel": "50"
+        },
+        {
+            "stationID": "108969",
+            "channel": "54"
+        },
+        {
+            "stationID": "56888",
+            "channel": "55"
+        },
+        {
+            "stationID": "97290",
+            "channel": "56"
+        },
+        {
+            "stationID": "56890",
+            "channel": "57"
+        },
+        {
+            "stationID": "90645",
+            "channel": "58"
+        },
+        {
+            "stationID": "61806",
+            "channel": "59"
+        },
+        {
+            "stationID": "54138",
+            "channel": "60"
+        },
+        {
+            "stationID": "57747",
+            "channel": "61"
+        },
+        {
+            "stationID": "44717",
+            "channel": "62"
+        },
+        {
+            "stationID": "101972",
+            "channel": "63"
+        },
+        {
+            "stationID": "105388",
+            "channel": "64"
+        },
+        {
+            "stationID": "97332",
+            "channel": "65"
+        },
+        {
+            "stationID": "31756",
+            "channel": "66"
+        },
+        {
+            "stationID": "45510",
+            "channel": "67"
+        },
+        {
+            "stationID": "42762",
+            "channel": "70"
+        },
+        {
+            "stationID": "57827",
+            "channel": "71"
+        },
+        {
+            "stationID": "97674",
+            "channel": "72"
+        },
+        {
+            "stationID": "102340",
+            "channel": "73"
+        },
+        {
+            "stationID": "29067",
+            "channel": "74"
+        },
+        {
+            "stationID": "65394",
+            "channel": "76"
+        },
+        {
+            "stationID": "44855",
+            "channel": "79"
+        },
+        {
+            "stationID": "103817",
+            "channel": "80"
+        },
+        {
+            "stationID": "99024",
+            "channel": "81"
+        },
+        {
+            "stationID": "102764",
+            "channel": "84"
+        },
+        {
+            "stationID": "47658",
+            "channel": "86"
+        },
+        {
+            "stationID": "103634",
+            "channel": "87"
+        },
+        {
+            "stationID": "108488",
+            "channel": "88"
+        },
+        {
+            "stationID": "24677",
+            "channel": "93"
+        },
+        {
+            "stationID": "73510",
+            "channel": "94"
+        },
+        {
+            "stationID": "87987",
+            "channel": "96"
+        },
+        {
+            "stationID": "66716",
+            "channel": "97"
+        },
+        {
+            "stationID": "105389",
+            "channel": "100"
+        },
+        {
+            "stationID": "87840",
+            "channel": "101"
+        },
+        {
+            "stationID": "50059",
+            "channel": "102"
+        },
+        {
+            "stationID": "50523",
+            "channel": "103"
+        },
+        {
+            "stationID": "50716",
+            "channel": "104"
+        },
+        {
+            "stationID": "50717",
+            "channel": "105"
+        },
+        {
+            "stationID": "83282",
+            "channel": "106"
+        },
+        {
+            "stationID": "83285",
+            "channel": "107"
+        },
+        {
+            "stationID": "97267",
+            "channel": "108"
+        },
+        {
+            "stationID": "89563",
+            "channel": "109"
+        },
+        {
+            "stationID": "89562",
+            "channel": "110"
+        },
+        {
+            "stationID": "87231",
+            "channel": "111"
+        },
+        {
+            "stationID": "97673",
+            "channel": "112"
+        },
+        {
+            "stationID": "98986",
+            "channel": "113"
+        },
+        {
+            "stationID": "105894",
+            "channel": "114"
+        },
+        {
+            "stationID": "29324",
+            "channel": "201"
+        },
+        {
+            "stationID": "29325",
+            "channel": "202"
+        },
+        {
+            "stationID": "49452",
+            "channel": "203"
+        },
+        {
+            "stationID": "83281",
+            "channel": "204"
+        },
+        {
+            "stationID": "83283",
+            "channel": "205"
+        },
+        {
+            "stationID": "33638",
+            "channel": "206"
+        },
+        {
+            "stationID": "34087",
+            "channel": "207"
+        },
+        {
+            "stationID": "56896",
+            "channel": "208"
+        },
+        {
+            "stationID": "19037",
+            "channel": "231"
+        },
+        {
+            "stationID": "20685",
+            "channel": "232"
+        },
+        {
+            "stationID": "16234",
+            "channel": "233"
+        },
+        {
+            "stationID": "49887",
+            "channel": "234"
+        },
+        {
+            "stationID": "81004",
+            "channel": "250"
+        },
+        {
+            "stationID": "105390",
+            "channel": "252"
+        },
+        {
+            "stationID": "105391",
+            "channel": "253"
+        },
+        {
+            "stationID": "24226",
+            "channel": "261"
+        },
+        {
+            "stationID": "67676",
+            "channel": "263"
+        },
+        {
+            "stationID": "73823",
+            "channel": "268"
+        },
+        {
+            "stationID": "46408",
+            "channel": "270"
+        },
+        {
+            "stationID": "105392",
+            "channel": "272"
+        },
+        {
+            "stationID": "81004",
+            "channel": "601"
+        },
+        {
+            "stationID": "69373",
+            "channel": "671"
+        },
+        {
+            "stationID": "105393",
+            "channel": "672"
+        },
+        {
+            "stationID": "105394",
+            "channel": "673"
+        },
+        {
+            "stationID": "100427",
+            "channel": "674"
+        },
+        {
+            "stationID": "24434",
+            "channel": "700"
+        },
+        {
+            "stationID": "31266",
+            "channel": "701"
+        },
+        {
+            "stationID": "24435",
+            "channel": "702"
+        },
+        {
+            "stationID": "24436",
+            "channel": "703"
+        },
+        {
+            "stationID": "24437",
+            "channel": "704"
+        },
+        {
+            "stationID": "24438",
+            "channel": "705"
+        },
+        {
+            "stationID": "29920",
+            "channel": "706"
+        },
+        {
+            "stationID": "30166",
+            "channel": "707"
+        },
+        {
+            "stationID": "31790",
+            "channel": "708"
+        },
+        {
+            "stationID": "24452",
+            "channel": "709"
+        },
+        {
+            "stationID": "24448",
+            "channel": "710"
+        },
+        {
+            "stationID": "33635",
+            "channel": "711"
+        },
+        {
+            "stationID": "25605",
+            "channel": "712"
+        },
+        {
+            "stationID": "25151",
+            "channel": "713"
+        },
+        {
+            "stationID": "30639",
+            "channel": "715"
+        },
+        {
+            "stationID": "31788",
+            "channel": "717"
+        },
+        {
+            "stationID": "45752",
+            "channel": "718"
+        },
+        {
+            "stationID": "82550",
+            "channel": "719"
+        },
+        {
+            "stationID": "82562",
+            "channel": "720"
+        },
+        {
+            "stationID": "25604",
+            "channel": "721"
+        },
+        {
+            "stationID": "86817",
+            "channel": "722"
+        },
+        {
+            "stationID": "24441",
+            "channel": "723"
+        },
+        {
+            "stationID": "30500",
+            "channel": "724"
+        },
+        {
+            "stationID": "24469",
+            "channel": "725"
+        },
+        {
+            "stationID": "24440",
+            "channel": "727"
+        },
+        {
+            "stationID": "24467",
+            "channel": "728"
+        },
+        {
+            "stationID": "24439",
+            "channel": "731"
+        },
+        {
+            "stationID": "33579",
+            "channel": "732"
+        },
+        {
+            "stationID": "25225",
+            "channel": "733"
+        },
+        {
+            "stationID": "33762",
+            "channel": "734"
+        }
+    ],
+    "stations": [
+        {
+            "stationID": "30644",
+            "name": "BBC One London",
+            "callsign": "BBC1LDN",
+            "affiliate": "BBC1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17153_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e0da84210765c349c4d8a364843565ec",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30644_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "eeee10ae7887918b0da2e6dfb095a81f",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17153_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "e0da84210765c349c4d8a364843565ec"
+            }
+        },
+        {
+            "stationID": "17154",
+            "name": "BBC Two",
+            "callsign": "BBC2",
+            "affiliate": "BBC2HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17154_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8af631512fed6160a79e5e2fc3a5c8cb",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17154_lg_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2c5f14aa878e9e488e71749a9df010bf",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17154_lw_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d6e08bc109d2021e274ebd669ceaf7e8",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17154_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "8af631512fed6160a79e5e2fc3a5c8cb"
+            }
+        },
+        {
+            "stationID": "17468",
+            "name": "ITV1 (London)",
+            "callsign": "ITV1LON",
+            "affiliate": "ITV1HDL",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17468_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "34dfda0808df9ded4522bb5f5121ba82",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17468_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "b74187eccd10ba75980c5970f4b7d738",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17468_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "34dfda0808df9ded4522bb5f5121ba82"
+            }
+        },
+        {
+            "stationID": "17155",
+            "name": "Channel 4",
+            "callsign": "C4",
+            "affiliate": "C4HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17155_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f726e7a6bd8d9ac020217231eaede299",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17155_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "62224fd6f65b3018f717078c3d792fd1",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17155_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "f726e7a6bd8d9ac020217231eaede299"
+            }
+        },
+        {
+            "stationID": "17157",
+            "name": "Channel 5",
+            "callsign": "CH5",
+            "affiliate": "CH5HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17157_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "538a413efc14f30b852d3dc0ecc2f64e",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17157_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "538a413efc14f30b852d3dc0ecc2f64e"
+            }
+        },
+        {
+            "stationID": "20630",
+            "name": "ITV2",
+            "callsign": "ITV2",
+            "affiliate": "ITV2HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "broadcaster": {
+                "city": "London",
+                "state": "ENG",
+                "postalcode": "WC1 XHF",
+                "country": "United Kingdom"
+            },
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20630_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "49b88ac3f2e99a0fd17e5a52b4bd8f86",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20630_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "49b88ac3f2e99a0fd17e5a52b4bd8f86"
+            }
+        },
+        {
+            "stationID": "84926",
+            "name": "London Live",
+            "callsign": "LONLIVE",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s84926_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "1f96e429c5093f91c80ff23a9b721633",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s84926_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "1f96e429c5093f91c80ff23a9b721633"
+            }
+        },
+        {
+            "stationID": "20684",
+            "name": "BBC Four",
+            "callsign": "BBC4",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20684_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f1b88cf8225148e3742c0f31c3f5de6b",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20684_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "3961d8c10f83901a7de70e9c2341a2d4",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20684_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "f1b88cf8225148e3742c0f31c3f5de6b"
+            }
+        },
+        {
+            "stationID": "44643",
+            "name": "ITV3",
+            "callsign": "ITVTHREE",
+            "affiliate": "ITV3HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44643_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8048f3feeabf0dff948215c5b74ab230",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44643_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "29b7cc2857cc52ec1f04fb044e46149b",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44643_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "8048f3feeabf0dff948215c5b74ab230"
+            }
+        },
+        {
+            "stationID": "48021",
+            "name": "Pick TV",
+            "callsign": "PICKTV",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s48021_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2416ec09f28714e333b5313021360b48",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s48021_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8d04d7a82ce8880fc20717e109d569b8",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s48021_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "2416ec09f28714e333b5313021360b48"
+            }
+        },
+        {
+            "stationID": "24305",
+            "name": "Dave",
+            "callsign": "DAVE",
+            "affiliate": "DAVEHD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24305_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "fe4dff57a1d4928c57ff4821682fda6a",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24305_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "a205b1914cd0dedfd01014b8835b2c9d",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24305_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "fe4dff57a1d4928c57ff4821682fda6a"
+            }
+        },
+        {
+            "stationID": "56892",
+            "name": "Channel 4 +1",
+            "callsign": "C4P1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56892_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "0232c3256fb8dc21a0581984b00d6fe4",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56892_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "ec68aed4e69945a84458330cbbc7bcc6",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56892_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "0232c3256fb8dc21a0581984b00d6fe4"
+            }
+        },
+        {
+            "stationID": "47657",
+            "name": "More 4",
+            "callsign": "MORE4",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s47657_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "3e1db531d4a3cfc76c77015234ba4e30",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s47657_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "3e1db531d4a3cfc76c77015234ba4e30"
+            }
+        },
+        {
+            "stationID": "21494",
+            "name": "Film4",
+            "callsign": "FILM4UK",
+            "affiliate": "FFOURHD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21494_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "a9dae6e47e012f498b72e84887fca70d",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21494_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "a9dae6e47e012f498b72e84887fca70d"
+            }
+        },
+        {
+            "stationID": "21810",
+            "name": "QVC (European)",
+            "callsign": "QVCUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21810_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "81f383a47de07ba7468d54e504354ad6",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21810_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "81f383a47de07ba7468d54e504354ad6"
+            }
+        },
+        {
+            "stationID": "45828",
+            "name": "Really UKTV",
+            "callsign": "REALLY",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45828_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "a5bf755c9e975f8fbd4d6e1415e6a0d4",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45828_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "a5bf755c9e975f8fbd4d6e1415e6a0d4"
+            }
+        },
+        {
+            "stationID": "31786",
+            "name": "4Music",
+            "callsign": "4MUSIC",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31786_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "1574c6d608d98d6ae2e37828852046ef",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31786_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "1574c6d608d98d6ae2e37828852046ef"
+            }
+        },
+        {
+            "stationID": "31783",
+            "name": "Yesterday",
+            "callsign": "YESTDAY",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31783_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d4823244a30c5120a4c2ae986f512904",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31783_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "b3cfea1c9dcbf9f444f95a7dc8a10f9e",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31783_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "d4823244a30c5120a4c2ae986f512904"
+            }
+        },
+        {
+            "stationID": "82575",
+            "name": "Drama",
+            "callsign": "DRAMAUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82575_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "6ab0123d8b5a26a487f9596633aa71b7",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82575_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "6ab0123d8b5a26a487f9596633aa71b7"
+            }
+        },
+        {
+            "stationID": "52335",
+            "name": "5USA",
+            "callsign": "5USA",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52335_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "9a519f5298a320f57b040d5d0e137d9e",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52335_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "6e6a9ac70ddab78b04773120c400ac93",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52335_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "9a519f5298a320f57b040d5d0e137d9e"
+            }
+        },
+        {
+            "stationID": "24669",
+            "name": "Ideal World",
+            "callsign": "IDEAL",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24669_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "cdbc33f9c9a60dd9f5c0cab544b3b27e",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24669_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "cdbc33f9c9a60dd9f5c0cab544b3b27e"
+            }
+        },
+        {
+            "stationID": "79940",
+            "name": "Create and Craft",
+            "callsign": "CREATVM",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s79940_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "372b43bd73e79ddc353ab6b40ef8b5ca",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s79940_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "372b43bd73e79ddc353ab6b40ef8b5ca"
+            }
+        },
+        {
+            "stationID": "48020",
+            "name": "ITV4",
+            "callsign": "ITV4",
+            "affiliate": "ITV4HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s48020_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "caa9b2da349d0854bb52306bc87deea6",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s48020_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "ef83ec859b00e8590a4f76a361d444b7",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s48020_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "caa9b2da349d0854bb52306bc87deea6"
+            }
+        },
+        {
+            "stationID": "21257",
+            "name": "Home",
+            "callsign": "HOME",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21257_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d0924145e63f31bb20c661a15a7888a5",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21257_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "d0924145e63f31bb20c661a15a7888a5"
+            }
+        },
+        {
+            "stationID": "90257",
+            "name": "ITV BE",
+            "callsign": "ITVBE",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90257_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "6c4d185bfe6aa68cd11055a30bbf7031",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90257_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2d5799c55559f1950aba39be6dce1053",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90257_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "6c4d185bfe6aa68cd11055a30bbf7031"
+            }
+        },
+        {
+            "stationID": "53059",
+            "name": "ITV2 +1",
+            "callsign": "ITV2P1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s53059_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "36c22c7f9f3168d6a71412e54590346b",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s53059_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "6290115221f5770251e9e3ae793a14bb",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s53059_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "36c22c7f9f3168d6a71412e54590346b"
+            }
+        },
+        {
+            "stationID": "25117",
+            "name": "E4",
+            "callsign": "E4",
+            "affiliate": "E4HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25117_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "c49bd7db6af2eefb3b39c7ad18389b59",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25117_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "c49bd7db6af2eefb3b39c7ad18389b59"
+            }
+        },
+        {
+            "stationID": "33882",
+            "name": "E4 +1",
+            "callsign": "E4P1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33882_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "07f8c5df7962815c687dd91b9a273e1d",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33882_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "07f8c5df7962815c687dd91b9a273e1d"
+            }
+        },
+        {
+            "stationID": "52336",
+            "name": "5 Star",
+            "callsign": "5ST",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52336_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "4aa7613c7e69860523e5dd51624c8d14",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52336_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e288abc804dce9783ba0f96d500915ca",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52336_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "4aa7613c7e69860523e5dd51624c8d14"
+            }
+        },
+        {
+            "stationID": "97330",
+            "name": "5Spike",
+            "callsign": "5SPIKUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97330_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "beaa1895c76c6c17edaebb1a6f18758c",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97330_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "3e8ba16ee507714ef8d7b980bf201f56",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97330_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "beaa1895c76c6c17edaebb1a6f18758c"
+            }
+        },
+        {
+            "stationID": "81450",
+            "name": "Sony Movie Channel",
+            "callsign": "SONYMOV",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s81450_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "4c14eb214bfe0293dd1c97f084d2955c",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s81450_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "4c14eb214bfe0293dd1c97f084d2955c"
+            }
+        },
+        {
+            "stationID": "65160",
+            "name": "ITV +1",
+            "callsign": "ITVP1LN",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s65160_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "bebf9c81c8577656c4089e4eb7ee0984",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s65160_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "93aa9ba9566b203ab2e31e09e3156c72",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s65160_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "bebf9c81c8577656c4089e4eb7ee0984"
+            }
+        },
+        {
+            "stationID": "98366",
+            "name": "ITV3 Freeview +1",
+            "callsign": "ITV3P1F",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s98366_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "70810216b6ad3292d171adc930911f7f",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s98366_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "70810216b6ad3292d171adc930911f7f"
+            }
+        },
+        {
+            "stationID": "29693",
+            "name": "QVC Beauty",
+            "callsign": "QVCBEAU",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29693_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "12757f9c17805546834957a1d58a7741",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29693_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "12757f9c17805546834957a1d58a7741"
+            }
+        },
+        {
+            "stationID": "98903",
+            "name": "QVC Style",
+            "callsign": "QVCSTVM",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s98903_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e709553ebfe037a75d2b8561ce50491b",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s98903_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "e709553ebfe037a75d2b8561ce50491b"
+            }
+        },
+        {
+            "stationID": "62391",
+            "name": "Quest",
+            "callsign": "QUEST",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s62391_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e4d5a31e208ea812e827ebf58f6a8091",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s62391_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "e4d5a31e208ea812e827ebf58f6a8091"
+            }
+        },
+        {
+            "stationID": "102471",
+            "name": "Quest Red",
+            "callsign": "QREDUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s102471_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8a671b0c8f976d4034b0e33cf24db46c",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s102471_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "8a671b0c8f976d4034b0e33cf24db46c"
+            }
+        },
+        {
+            "stationID": "73970",
+            "name": "CBS Justice",
+            "callsign": "CBSJUVM",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73970_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8aba49c4b03f8b8b95de265dcfdd5aeb",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73970_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "8aba49c4b03f8b8b95de265dcfdd5aeb"
+            }
+        },
+        {
+            "stationID": "74024",
+            "name": "Sony Crime Channel",
+            "callsign": "SOCRIME",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s74024_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e98210a5cfa23e2e96c758d49fd39a27",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s74024_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "e98210a5cfa23e2e96c758d49fd39a27"
+            }
+        },
+        {
+            "stationID": "44718",
+            "name": "Food Network",
+            "callsign": "FOODNET",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44718_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "bcf7be3a2fa159538e1fa39de47414f3",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44718_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "bcf7be3a2fa159538e1fa39de47414f3"
+            }
+        },
+        {
+            "stationID": "58793",
+            "name": "DMAX",
+            "callsign": "DMAXE",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58793_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "24360dbd326d37a7cadad069fd03b7a7",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58793_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "9954518009408143d1a3f22a4d22e254",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s58793_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "24360dbd326d37a7cadad069fd03b7a7"
+            }
+        },
+        {
+            "stationID": "27993",
+            "name": "Gems TV",
+            "callsign": "GEMSTV",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s27993_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "9bbb7c2e617dafe9b356256aeef4212a",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s27993_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "9bbb7c2e617dafe9b356256aeef4212a"
+            }
+        },
+        {
+            "stationID": "77749",
+            "name": "Channel 5 +1",
+            "callsign": "CH5P1VM",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s77749_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "b7e72f1ba0ac7486ec500c846bb71ece",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s77749_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "c5b4a53d034fc4d9f92112ec5062f84c",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s77749_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "b7e72f1ba0ac7486ec500c846bb71ece"
+            }
+        },
+        {
+            "stationID": "25630",
+            "name": "Film4 +1",
+            "callsign": "FILM41",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25630_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7b2d65d6efe1578d26fb5c7838aeb396",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25630_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "7b2d65d6efe1578d26fb5c7838aeb396"
+            }
+        },
+        {
+            "stationID": "21793",
+            "name": "Challenge TV",
+            "callsign": "CHALL",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21793_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "9ff2ecce924eb71af3e22a17d89a5cf3",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21793_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "306e6d20d33ac6c07e3aac384eeb8d16",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s21793_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "9ff2ecce924eb71af3e22a17d89a5cf3"
+            }
+        },
+        {
+            "stationID": "75804",
+            "name": "4Seven",
+            "callsign": "4SEVEN",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s75804_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f7e25d0d7ef1b6ff2531b0d8aa86f3f6",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s75804_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "6ede086227cc063f8fb01481882fe9c1",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s75804_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "f7e25d0d7ef1b6ff2531b0d8aa86f3f6"
+            }
+        },
+        {
+            "stationID": "46306",
+            "name": "Movies4Men",
+            "callsign": "MOV4MEN",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s46306_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "4ce85cde82b188b338855db778789ce0",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s46306_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "c7e52e5e144ac1e02d1c4aac385333d1",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s46306_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "4ce85cde82b188b338855db778789ce0"
+            }
+        },
+        {
+            "stationID": "30157",
+            "name": "Jewellery Channel",
+            "callsign": "JEWELCH",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30157_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2808d355cd6f00a8ebcfa81c0fd450b0",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30157_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "207edae614cc7773d7816c868e58ef93",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30157_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "2808d355cd6f00a8ebcfa81c0fd450b0"
+            }
+        },
+        {
+            "stationID": "97281",
+            "name": "Sony Movie Channel +1",
+            "callsign": "SONMOV1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ]
+        },
+        {
+            "stationID": "108969",
+            "name": "Paramount Network HD",
+            "callsign": "PARNUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s108969_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7dfbc9c5bd507d5b5fd859557ef08a65",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s108969_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "4b133c917932c59df57066709b99453e",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s108969_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "7dfbc9c5bd507d5b5fd859557ef08a65"
+            }
+        },
+        {
+            "stationID": "56888",
+            "name": "5SELECT",
+            "callsign": "5SELECT",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56888_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "fabc937e4aa0e57f80d7f8f086acd7ef",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56888_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7249b5860788958e93cf3d66908dc9ff",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56888_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "fabc937e4aa0e57f80d7f8f086acd7ef"
+            }
+        },
+        {
+            "stationID": "97290",
+            "name": "5 Star +1",
+            "callsign": "5STAP1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97290_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "c7e749fa43cb27cc338928d3395ffee1",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97290_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "38fce6c2666a7b77b1d1dfd0f06e8e31",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97290_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "c7e749fa43cb27cc338928d3395ffee1"
+            }
+        },
+        {
+            "stationID": "56890",
+            "name": "5USA +1",
+            "callsign": "5USAP1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56890_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "072571395d250c474a7ca9e2b5cc2365",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56890_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "908b6503f70745f21728a1182f723247",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56890_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "072571395d250c474a7ca9e2b5cc2365"
+            }
+        },
+        {
+            "stationID": "90645",
+            "name": "ITVBe +1",
+            "callsign": "ITVBEP1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90645_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "92e85519e37a37f75747c0f2dd8f50fa",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90645_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d961c8683da3e940ce33da5b57b8ee2b",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s90645_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "92e85519e37a37f75747c0f2dd8f50fa"
+            }
+        },
+        {
+            "stationID": "61806",
+            "name": "ITV4 +1",
+            "callsign": "ITV4P1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61806_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "cd8a1dbe901721025c27d3674b8a47d4",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61806_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f0ddebcfc627ac1bb3e7868ec64e3f2a",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s61806_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "cd8a1dbe901721025c27d3674b8a47d4"
+            }
+        },
+        {
+            "stationID": "54138",
+            "name": "Sony Crime Channel +1",
+            "callsign": "SOCRIP1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s54138_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e10ccdfbb0f939c56d38fa6e56e92ec3",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s54138_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8328c1bf06ebed52647515c038215f6c",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s54138_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "e10ccdfbb0f939c56d38fa6e56e92ec3"
+            }
+        },
+        {
+            "stationID": "57747",
+            "name": "True Entertainment",
+            "callsign": "TRUEENT",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57747_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "bbd0c4b01181b92c3ffb1ebca5b44d9d",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57747_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "bbd0c4b01181b92c3ffb1ebca5b44d9d"
+            }
+        },
+        {
+            "stationID": "44717",
+            "name": "True Movies 1",
+            "callsign": "TRUMOV1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44717_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "6016a0e76401e5379c0c1d50f46fbc28",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44717_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "6016a0e76401e5379c0c1d50f46fbc28"
+            }
+        },
+        {
+            "stationID": "101972",
+            "name": "BLAZE",
+            "callsign": "BLAZUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s101972_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8b8de6842fe0894c4c0fadbe3d4690b9",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s101972_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "8b8de6842fe0894c4c0fadbe3d4690b9"
+            }
+        },
+        {
+            "stationID": "105388",
+            "name": "Free Sports",
+            "callsign": "FREESPO",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105388_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "9a87a4102e4e1d1884efda01805dd929",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105388_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "3aa0b253a1f054b1d9205f56fec7fb75",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105388_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "9a87a4102e4e1d1884efda01805dd929"
+            }
+        },
+        {
+            "stationID": "97332",
+            "name": "TBN UK",
+            "callsign": "TBNUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97332_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e35da978f132fc23e8494360be5a6510",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97332_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "e35da978f132fc23e8494360be5a6510"
+            }
+        },
+        {
+            "stationID": "31756",
+            "name": "CBS Reality",
+            "callsign": "CBSRELT",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31756_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "341a1759bd9c0b106673e1e3c0bed24b",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31756_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "341a1759bd9c0b106673e1e3c0bed24b"
+            }
+        },
+        {
+            "stationID": "45510",
+            "name": "CBS Reality +1",
+            "callsign": "CBSREL1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45510_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "1c239de21f52f5905c52187cef6df878",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45510_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "1c239de21f52f5905c52187cef6df878"
+            }
+        },
+        {
+            "stationID": "42762",
+            "name": "Horror Channel",
+            "callsign": "HORROR",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s42762_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "65de3b31087447f7a80fb92d5876bab3",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s42762_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "9450445cd64feaa960bc46323ceb007a",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s42762_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "65de3b31087447f7a80fb92d5876bab3"
+            }
+        },
+        {
+            "stationID": "57827",
+            "name": "CBS Drama",
+            "callsign": "CBSDRMA",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57827_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "a82a43de41a4addec8e5cc583a5a7f6a",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s57827_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "a82a43de41a4addec8e5cc583a5a7f6a"
+            }
+        },
+        {
+            "stationID": "97674",
+            "name": "Your TV",
+            "callsign": "YOURTUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97674_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "0232ad066fe3fcd64c1630789eb6e28e",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97674_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "0232ad066fe3fcd64c1630789eb6e28e"
+            }
+        },
+        {
+            "stationID": "102340",
+            "name": "Sewing Quarter",
+            "callsign": "SEWQUA",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s102340_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "3fa568955e0607d8b394effeaa8654d1",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s102340_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "1ad8cc65c54fa2760060bc0e80589d46",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s102340_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "3fa568955e0607d8b394effeaa8654d1"
+            }
+        },
+        {
+            "stationID": "29067",
+            "name": "Jewellery Maker",
+            "callsign": "JEWELMK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29067_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "895febd091a57066f0998b1f2b9d0711",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29067_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "eea4ce04bbf562496acbcedeeaf936e2",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29067_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "895febd091a57066f0998b1f2b9d0711"
+            }
+        },
+        {
+            "stationID": "65394",
+            "name": "Quest +1",
+            "callsign": "QUESTP1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s65394_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "ad338a1cba6246a7f8c3c955fe63c03c",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s65394_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "ad338a1cba6246a7f8c3c955fe63c03c"
+            }
+        },
+        {
+            "stationID": "44855",
+            "name": "Dave Ja Vu",
+            "callsign": "DAVEJV",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44855_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "5978f2e662b643a87fc18707bc75134b",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44855_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8497d29608b39dcf6e9350381a3d1d80",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s44855_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "5978f2e662b643a87fc18707bc75134b"
+            }
+        },
+        {
+            "stationID": "103817",
+            "name": "Blaze +1",
+            "callsign": "BLAZEP1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s103817_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "dbca1ce2733b357715007992ae516b82",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s103817_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "dbca1ce2733b357715007992ae516b82"
+            }
+        },
+        {
+            "stationID": "99024",
+            "name": "Talking Pictures TV",
+            "callsign": "TALKPIC",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s99024_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "c4f23aa078ec85dfdc3a11f3b34d359d",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s99024_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "c4f23aa078ec85dfdc3a11f3b34d359d"
+            }
+        },
+        {
+            "stationID": "102764",
+            "name": "Quest Red +1",
+            "callsign": "QREDUK1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s102764_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f37fabe6f58507f81b470ff9560c6f4c",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s102764_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "f37fabe6f58507f81b470ff9560c6f4c"
+            }
+        },
+        {
+            "stationID": "47658",
+            "name": "More4 +1",
+            "callsign": "MORE4P1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s47658_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "6f829ce73863430aafd398f59f007668",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s47658_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "6f829ce73863430aafd398f59f007668"
+            }
+        },
+        {
+            "stationID": "103634",
+            "name": "Keep It Country",
+            "callsign": "KEEPIC",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s103634_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "fcad340018d79245fe167970cd704566",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s103634_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2d4b2fc52671b758faa270b60018cbb9",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s103634_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "fcad340018d79245fe167970cd704566"
+            }
+        },
+        {
+            "stationID": "108488",
+            "name": "Now 80s",
+            "callsign": "NOW80UK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ]
+        },
+        {
+            "stationID": "24677",
+            "name": "Together",
+            "callsign": "TOGETUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24677_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7643b31b658c04e619b564556d7fa1fe",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24677_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "7643b31b658c04e619b564556d7fa1fe"
+            }
+        },
+        {
+            "stationID": "73510",
+            "name": "PBS (VM)",
+            "callsign": "PBSUKVM",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73510_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "91c6a2abff959fbfe75b84412b2ad9f1",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73510_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8cf1b1452ffc5ffc3a15e974178d0226",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73510_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "91c6a2abff959fbfe75b84412b2ad9f1"
+            }
+        },
+        {
+            "stationID": "87987",
+            "name": "British Forces TV",
+            "callsign": "BRITFRC",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s87987_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "a711c9a3a4114ba053fe82f7a1bb1a70",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s87987_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "a711c9a3a4114ba053fe82f7a1bb1a70"
+            }
+        },
+        {
+            "stationID": "66716",
+            "name": "Pick TV +1",
+            "callsign": "PICKP1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s66716_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "edb443a7ec037a611d827b56d5c8dc9e",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s66716_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "0e1a643fea0d976b2e1f5d7e5dfddcf4",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s66716_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "edb443a7ec037a611d827b56d5c8dc9e"
+            }
+        },
+        {
+            "stationID": "105389",
+            "name": "Freeview Information",
+            "callsign": "FREEVIE",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105389_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "b21f6f5599b11b6954c8a7d665c3ee24",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105389_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "53e2bfc59c82b3b0e42a19cbd00ec1b9",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105389_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "b21f6f5599b11b6954c8a7d665c3ee24"
+            }
+        },
+        {
+            "stationID": "87840",
+            "name": "BBC One HD (London)",
+            "callsign": "BBC1LDH",
+            "affiliate": "BBC1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17153_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e0da84210765c349c4d8a364843565ec",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s87840_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f64dd82240973ac9ac423b6aa65ff4c7",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s17153_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "e0da84210765c349c4d8a364843565ec"
+            }
+        },
+        {
+            "stationID": "50059",
+            "name": "BBC Two HD",
+            "callsign": "BBC2HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50059_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "fe7e3f747011aca62e8caf39af01e660",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50059_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "fe7e3f747011aca62e8caf39af01e660"
+            }
+        },
+        {
+            "stationID": "50523",
+            "name": "ITV1 HD (London)",
+            "callsign": "ITV1HDL",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50523_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f2307a689761ac8e5d2f9d0f5eb18d49",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50523_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "427029d8f90fb13ad74dfaf6f96ca691",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50523_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "f2307a689761ac8e5d2f9d0f5eb18d49"
+            }
+        },
+        {
+            "stationID": "50716",
+            "name": "Channel 4 HD",
+            "callsign": "C4HD",
+            "affiliate": "C4",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50716_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "20d5fd8338ae67ca51bc1c599e7b2f34",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50716_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "0515f81fa50e3c1c28bfb8b1c0e448f6",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50716_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "20d5fd8338ae67ca51bc1c599e7b2f34"
+            }
+        },
+        {
+            "stationID": "50717",
+            "name": "Channel 5 HD",
+            "callsign": "CH5HD",
+            "affiliate": "CH5",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50717_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "b40ed02acba8498835e98e399fc15666",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50717_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "adf076f0329045821c71450f429e2534",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s50717_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "b40ed02acba8498835e98e399fc15666"
+            }
+        },
+        {
+            "stationID": "83282",
+            "name": "BBC Four HD",
+            "callsign": "BBC4HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s83282_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "305bac037dde91d014fff601b4055551",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s83282_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "03b77483d09b5021264ec8b3727a5c65",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s83282_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "305bac037dde91d014fff601b4055551"
+            }
+        },
+        {
+            "stationID": "83285",
+            "name": "BBC News HD",
+            "callsign": "BBCNWHD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s83285_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "11e9a57ce1fa7be7f4d108561d7192c7",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s83285_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "11e9a57ce1fa7be7f4d108561d7192c7"
+            }
+        },
+        {
+            "stationID": "97267",
+            "name": "Al Jazeera HD",
+            "callsign": "ALJAZEH",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97267_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f29a9846929dae63f13b508253c5747f",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97267_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "f29a9846929dae63f13b508253c5747f"
+            }
+        },
+        {
+            "stationID": "89563",
+            "name": "Channel 4 +1 HD",
+            "callsign": "C4P1HD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s89563_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d2c37942a4225da23d6f3b4bce49596b",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s89563_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "a17625960fa15eb533ddc0306ffe94c8",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s89563_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "d2c37942a4225da23d6f3b4bce49596b"
+            }
+        },
+        {
+            "stationID": "89562",
+            "name": "4Seven HD",
+            "callsign": "4SEVENH",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s75804_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8c411a05523a339350070b6e0459f73e",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s75804_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d2e1b95f5b5f27ed7f3d7e61d07d2c13",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s89562_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "806e1aa5f97aabbbdc5796f466c3c970",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s89562_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "88f59a09be8e539fe3df8d9a490c230b",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s75804_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "8c411a05523a339350070b6e0459f73e"
+            }
+        },
+        {
+            "stationID": "87231",
+            "name": "QVC HD",
+            "callsign": "QVCUKHD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s87231_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2173d0c8f4341fea8f85e35f3be3dd01",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s87231_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "2173d0c8f4341fea8f85e35f3be3dd01"
+            }
+        },
+        {
+            "stationID": "97673",
+            "name": "QVC Beauty HD",
+            "callsign": "QVCBEAH",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97673_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7769bc5184a72d1657a3ad566668f286",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s97673_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "7769bc5184a72d1657a3ad566668f286"
+            }
+        },
+        {
+            "stationID": "98986",
+            "name": "RT HD",
+            "callsign": "RTUKHD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s98986_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "b4aed21cce9c4ad39f5c00cec86e1dc2",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s98986_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "b4aed21cce9c4ad39f5c00cec86e1dc2"
+            }
+        },
+        {
+            "stationID": "105894",
+            "name": "Quest HD",
+            "callsign": "QUESHDV",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ]
+        },
+        {
+            "stationID": "29324",
+            "name": "CBBC",
+            "callsign": "CBBC",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29324_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2536077b2389d12aac768ee54f2214b2",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29324_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "2536077b2389d12aac768ee54f2214b2"
+            }
+        },
+        {
+            "stationID": "29325",
+            "name": "CBeebies",
+            "callsign": "CBEEB",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29325_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "259f3adf546f16620e348441a2034b4d",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29325_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "259f3adf546f16620e348441a2034b4d"
+            }
+        },
+        {
+            "stationID": "49452",
+            "name": "Children's ITV",
+            "callsign": "CHITV",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49452_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "ebb40a535f6d13197e955739f62cdecb",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49452_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "933ae0b0d8740e39e6fcddf8daee5e68",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49452_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "ebb40a535f6d13197e955739f62cdecb"
+            }
+        },
+        {
+            "stationID": "83281",
+            "name": "CBBC HD",
+            "callsign": "CBBCHD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s83281_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "75e72c616c438a733ee84560ac71e8b5",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s83281_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "75e72c616c438a733ee84560ac71e8b5"
+            }
+        },
+        {
+            "stationID": "83283",
+            "name": "CBeebies HD",
+            "callsign": "CBEEBHD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s83283_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7d1fe40137189b709ec3ac6819dd6a29",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s83283_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "7d1fe40137189b709ec3ac6819dd6a29"
+            }
+        },
+        {
+            "stationID": "33638",
+            "name": "Pop",
+            "callsign": "POP",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "broadcaster": {
+                "city": "London",
+                "state": "ENG",
+                "postalcode": "SW6 4QP",
+                "country": "United Kingdom"
+            },
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33638_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "edb8fc7a557aa07cf87d6479388acacf",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33638_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "edb8fc7a557aa07cf87d6479388acacf"
+            }
+        },
+        {
+            "stationID": "34087",
+            "name": "Tiny Pop",
+            "callsign": "TINYPOP",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s34087_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "0de34c73d8d7aafdc38606cc874f4555",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s34087_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "0de34c73d8d7aafdc38606cc874f4555"
+            }
+        },
+        {
+            "stationID": "56896",
+            "name": "Pop Max",
+            "callsign": "POPMXUK",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56896_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "67a89665e9084dfd4de667d06d30ce61",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s56896_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "67a89665e9084dfd4de667d06d30ce61"
+            }
+        },
+        {
+            "stationID": "19037",
+            "name": "BBC News",
+            "callsign": "BBCNEWS",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19037_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "aa8367d91e65052160b6c7d22ee1fc1f",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19037_ll_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d8f5f317f12a799620f3747515e7a13e",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19037_lw_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e13a6d8c1e9177c250ad70467458f445",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s19037_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "aa8367d91e65052160b6c7d22ee1fc1f"
+            }
+        },
+        {
+            "stationID": "20685",
+            "name": "BBC Parliament",
+            "callsign": "BBCPARL",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20685_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7283cd75dbf47232a37c09ba73bccc63",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20685_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "7283cd75dbf47232a37c09ba73bccc63"
+            }
+        },
+        {
+            "stationID": "16234",
+            "name": "Sky News",
+            "callsign": "SKYNEWS",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16234_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "528f01e555847b7bfac4be5de189a527",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s16234_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "528f01e555847b7bfac4be5de189a527"
+            }
+        },
+        {
+            "stationID": "49887",
+            "name": "RT",
+            "callsign": "RUSTOD",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49887_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d9280ab9ec9dbae33a90fddd4a217844",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s49887_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "d9280ab9ec9dbae33a90fddd4a217844"
+            }
+        },
+        {
+            "stationID": "81004",
+            "name": "BBC Red Button 1",
+            "callsign": "BBCRDB1",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s81004_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "4cedc97cef651585de40f56736273145",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s81004_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "edc7c6e2a63d08c0f40fb3415ee37c2c",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s81004_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "4cedc97cef651585de40f56736273145"
+            }
+        },
+        {
+            "stationID": "105390",
+            "name": "Kiss Me TV",
+            "callsign": "KISSME",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ]
+        },
+        {
+            "stationID": "105391",
+            "name": "Proud Dating",
+            "callsign": "PROUDDA",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ]
+        },
+        {
+            "stationID": "24226",
+            "name": "Racing TV HD",
+            "callsign": "RACING",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24226_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "af51a7415b2566428254729cee9cdf0d",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24226_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "ce57722c1d8604ff54aeb9c402be89eb",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24226_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "af51a7415b2566428254729cee9cdf0d"
+            }
+        },
+        {
+            "stationID": "67676",
+            "name": "SonLife Broadcasting Network",
+            "callsign": "SONLIFE",
+            "broadcastLanguage": [
+                "en"
+            ],
+            "descriptionLanguage": [
+                "en"
+            ],
+            "broadcaster": {
+                "city": "Baton Rouge",
+                "state": "LA",
+                "postalcode": "70810",
+                "country": "United States"
+            },
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s67676_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "570b92ca393449437f418014773d2a1f",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s67676_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "570b92ca393449437f418014773d2a1f"
+            }
+        },
+        {
+            "stationID": "73823",
+            "name": "Box Nation",
+            "callsign": "BXNATVM",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73823_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "4068b7fdc256d46bc33a7b5e3a11cb43",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s73823_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "4068b7fdc256d46bc33a7b5e3a11cb43"
+            }
+        },
+        {
+            "stationID": "46408",
+            "name": "Loveworld TV",
+            "callsign": "LOVEWOR",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s46408_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "fd307ef9a721789e16bce0fa669e5034",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s46408_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "871a0d7e0ec2ccd293dfa0b6592883d3",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s46408_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "fd307ef9a721789e16bce0fa669e5034"
+            }
+        },
+        {
+            "stationID": "105392",
+            "name": "Bollywood HD",
+            "callsign": "BLLYWDH",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105392_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "cf5dfe4d581731d903293ea51a3bc605",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105392_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "cf5dfe4d581731d903293ea51a3bc605"
+            }
+        },
+        {
+            "stationID": "69373",
+            "name": "TVX: The Fantasy Channel (Digital)",
+            "callsign": "TVXVM",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ]
+        },
+        {
+            "stationID": "105393",
+            "name": "Smile TV2",
+            "callsign": "SMILET2",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ]
+        },
+        {
+            "stationID": "105394",
+            "name": "Smile TV3",
+            "callsign": "SMILET3",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105394_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "00ba2b8899977203f4212e946a258ba2",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105394_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "4d7900ac82407fe3e812c7b827177196",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s105394_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "00ba2b8899977203f4212e946a258ba2"
+            }
+        },
+        {
+            "stationID": "100427",
+            "name": "Babestation",
+            "callsign": "BABESTV",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s100427_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "45f71bd229fcc8bf46a87fd854255d91",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s100427_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "45f71bd229fcc8bf46a87fd854255d91"
+            }
+        },
+        {
+            "stationID": "24434",
+            "name": "BBC Radio 1",
+            "callsign": "BBCR1",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24434_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "69fbfff7c6f690f651d27dfe68a6a60a",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24434_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "eea47e5062800f626e679f099758d2c0",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24434_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "69fbfff7c6f690f651d27dfe68a6a60a"
+            }
+        },
+        {
+            "stationID": "31266",
+            "name": "BBC Radio 1 Xtra",
+            "callsign": "BBCR1X",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31266_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2e88cf0c4792b8a70576d092d6c85d00",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31266_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f8986211051b2e15e3af51821f36d3ca",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31266_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "2e88cf0c4792b8a70576d092d6c85d00"
+            }
+        },
+        {
+            "stationID": "24435",
+            "name": "BBC Radio 2",
+            "callsign": "BBCR2",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24435_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f6d092dacfe0195594d31118990fbf6d",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24435_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "967f4ff7d8ad954a9b835a3ee305b042",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24435_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "f6d092dacfe0195594d31118990fbf6d"
+            }
+        },
+        {
+            "stationID": "24436",
+            "name": "BBC Radio 3",
+            "callsign": "BBCR3",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24436_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "3a07ef168a5eccb6d9f1583b363dbb36",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24436_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "5414688398a885846d0bd1a7c92defe3",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24436_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "3a07ef168a5eccb6d9f1583b363dbb36"
+            }
+        },
+        {
+            "stationID": "24437",
+            "name": "BBC Radio 4 FM",
+            "callsign": "BBCR4FM",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24437_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7c29aa9878be72cb650ded65a505f424",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24437_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "32d2fa5216e922ff73467f06d0424086",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24437_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "7c29aa9878be72cb650ded65a505f424"
+            }
+        },
+        {
+            "stationID": "24438",
+            "name": "BBC Radio 5 Live",
+            "callsign": "BBCR5L",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24438_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "c33166aac7303b96230a4c731a2b17d5",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24438_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "c3c40869fbeb2af1620b689acb82ee58",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24438_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "c33166aac7303b96230a4c731a2b17d5"
+            }
+        },
+        {
+            "stationID": "29920",
+            "name": "BBC Radio 5 Live Sports Xtra",
+            "callsign": "BBC5LX",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29920_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "52586064e394bc0b1fcc27864b7272d5",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29920_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2a0a1d0df772a8e355da0754073850c1",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s29920_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "52586064e394bc0b1fcc27864b7272d5"
+            }
+        },
+        {
+            "stationID": "30166",
+            "name": "BBC Radio 6 Music",
+            "callsign": "BBCR6M",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30166_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7d937949e033cf3e7c1a350beada944c",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30166_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "bec3b9180d96368141323af6f499850e",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30166_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "7d937949e033cf3e7c1a350beada944c"
+            }
+        },
+        {
+            "stationID": "31790",
+            "name": "BBC Radio 4 Extra",
+            "callsign": "BBCR4EX",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31790_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d5564aa00cb248aa29ef38d572869670",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31790_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "b7d97129fe1ca078d905c22018beaced",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31790_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "d5564aa00cb248aa29ef38d572869670"
+            }
+        },
+        {
+            "stationID": "24452",
+            "name": "BBC Asian Network",
+            "callsign": "BBCASIA",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24452_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "c35eef90b8cfbe830ec4f805f4ccd759",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24452_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "88055dbafb7da5209f5bd1624ed3c7b5",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24452_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "c35eef90b8cfbe830ec4f805f4ccd759"
+            }
+        },
+        {
+            "stationID": "24448",
+            "name": "BBC World Service",
+            "callsign": "BBCWS",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24448_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "1dda98ce9cb2b50495927a80b602351c",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24448_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "1dda98ce9cb2b50495927a80b602351c"
+            }
+        },
+        {
+            "stationID": "33635",
+            "name": "The Hits Radio",
+            "callsign": "HITSRAD",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33635_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2a84f3face4630e9a249d43f291d62b8",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33635_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "2a84f3face4630e9a249d43f291d62b8"
+            }
+        },
+        {
+            "stationID": "25605",
+            "name": "Kiss Fresh",
+            "callsign": "KISSRDO",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25605_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e8e40194932e148c4618631a6336b716",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25605_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "e96789635dc601c2b00e4eabd27ede22",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25605_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "e8e40194932e148c4618631a6336b716"
+            }
+        },
+        {
+            "stationID": "25151",
+            "name": "Kiss",
+            "callsign": "KISS",
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25151_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "1b2b6c3af81dbe88314b2e4e1e77e4f8",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25151_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "1b2b6c3af81dbe88314b2e4e1e77e4f8"
+            }
+        },
+        {
+            "stationID": "30639",
+            "name": "Magic FM",
+            "callsign": "MAGICFM",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30639_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "28e6aa9c04529d66825597b9d732d5f6",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30639_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "2c1e2747437c178379a06a2ea8c5aea4",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30639_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "28e6aa9c04529d66825597b9d732d5f6"
+            }
+        },
+        {
+            "stationID": "31788",
+            "name": "Kerrang! Radio",
+            "callsign": "KERRAD",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31788_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "983122b977725075aee520bb3ffad317",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s31788_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "983122b977725075aee520bb3ffad317"
+            }
+        },
+        {
+            "stationID": "45752",
+            "name": "Smooth FM 102.2",
+            "callsign": "SMTHFM",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45752_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "236b00c5e91f809c3a627506ba0d1824",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45752_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "236b00c5e91f809c3a627506ba0d1824"
+            }
+        },
+        {
+            "stationID": "82550",
+            "name": "BBC Radio Berkshire",
+            "callsign": "BBCRBKS",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82550_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "110dfef25c332c7972b2fdfc9fbf2b7e",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82550_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "bc091ffee991b270f1e010e6bb104a24",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s82550_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "110dfef25c332c7972b2fdfc9fbf2b7e"
+            }
+        },
+        {
+            "stationID": "82562",
+            "name": "BBC Three Counties Radio",
+            "callsign": "BBCTCR",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ]
+        },
+        {
+            "stationID": "25604",
+            "name": "BBC Radio London",
+            "callsign": "BBCLON",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25604_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "33cfa7e12656422be7ad06b9f3e05e37",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25604_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "25b8bea8b035c4400afa8c7d30207ee1",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25604_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "33cfa7e12656422be7ad06b9f3e05e37"
+            }
+        },
+        {
+            "stationID": "86817",
+            "name": "BBC Radio Surrey",
+            "callsign": "BBCRSUR",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s86817_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "1345e41edcea906052e53f6ce5f261e7",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s86817_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "783ee9456861654efa2a5f433cc62cca",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s86817_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "1345e41edcea906052e53f6ce5f261e7"
+            }
+        },
+        {
+            "stationID": "24441",
+            "name": "Talk Sport",
+            "callsign": "TLKSPT",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24441_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "cbe2bb3fc964054bf9ba1cd9f97a0b8b",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24441_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "cbe2bb3fc964054bf9ba1cd9f97a0b8b"
+            }
+        },
+        {
+            "stationID": "30500",
+            "name": "Capital London",
+            "callsign": "CAPRAD",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30500_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "d9edfad20e1117e37c45e12abff5cef4",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30500_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "6591c721100a91927a551368127ecc30",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s30500_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "d9edfad20e1117e37c45e12abff5cef4"
+            }
+        },
+        {
+            "stationID": "24469",
+            "name": "Premier - PREMIER",
+            "callsign": "PREMIER",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en"
+            ],
+            "descriptionLanguage": [
+                "en"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24469_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "8056e961e1fbb8ef9f039679ea30a4f6",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24469_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "cd9c722a565e80f8fc9ed5de77c9e350",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24469_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "8056e961e1fbb8ef9f039679ea30a4f6"
+            }
+        },
+        {
+            "stationID": "24440",
+            "name": "Absolute Radio",
+            "callsign": "ABSOLRA",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24440_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "40d9cee221b1fe1e993c6f603976fdf3",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24440_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "09de93e3e590da53f693ec3b2867c462",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24440_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "40d9cee221b1fe1e993c6f603976fdf3"
+            }
+        },
+        {
+            "stationID": "24467",
+            "name": "Heart FM",
+            "callsign": "HEART",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24467_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "f9de8f5245a0cfe99b330c872ef33324",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24467_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "f9de8f5245a0cfe99b330c872ef33324"
+            }
+        },
+        {
+            "stationID": "24439",
+            "name": "Classic FM",
+            "callsign": "CLASSFM",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24439_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "7190b0bbfeb98224edb65a33ce9f0127",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24439_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "1234d9097d22e9b868d000bdb94aef6c",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s24439_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "7190b0bbfeb98224edb65a33ce9f0127"
+            }
+        },
+        {
+            "stationID": "33579",
+            "name": "LBC",
+            "callsign": "LBCLND",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33579_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "9ccb0c5e7463f522bbd3d36ad4af0b14",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33579_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "b78b95877282d32710be4689bbe4f601",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33579_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "9ccb0c5e7463f522bbd3d36ad4af0b14"
+            }
+        },
+        {
+            "stationID": "25225",
+            "name": "TWR",
+            "callsign": "TWR",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25225_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "3548e5b9a06020accd826e3f6a0cc47b",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25225_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "4f22cd4408d044e9a28be2df33f8d04f",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s25225_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "3548e5b9a06020accd826e3f6a0cc47b"
+            }
+        },
+        {
+            "stationID": "33762",
+            "name": "BBC Radio Essex",
+            "callsign": "BBCREX",
+            "isRadioStation": true,
+            "broadcastLanguage": [
+                "en-GB"
+            ],
+            "descriptionLanguage": [
+                "en-GB"
+            ],
+            "stationLogo": [
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33762_h3_aa.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "b89eff5911c25676b714f11f9aa9412d",
+                    "source": "Gracenote"
+                },
+                {
+                    "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33762_h3_ba.png",
+                    "height": 270,
+                    "width": 360,
+                    "md5": "0dbc3a13ace7483a4a5fe6ce44935479",
+                    "source": "Gracenote"
+                }
+            ],
+            "logo": {
+                "URL": "https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33762_h3_aa.png",
+                "height": 270,
+                "width": 360,
+                "md5": "b89eff5911c25676b714f11f9aa9412d"
+            }
+        }
+    ],
+    "metadata": {
+        "lineup": "GBR-1000014-DEFAULT",
+        "modified": "2019-01-21T19:53:52Z",
+        "transport": "Cable"
+    }
+}
