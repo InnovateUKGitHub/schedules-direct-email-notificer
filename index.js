@@ -261,6 +261,35 @@ const getLineups = async () => {
     }
 };
 
+const sendEmail = async (body) => {
+    const params = {
+        Destination: {
+            ToAddresses: [process.env.recipient],
+        },
+        Message: {
+            Body: {
+                Text: {
+                    Charset: "UTF-8",
+                    Data: body,
+                },
+            },
+            Subject: {
+                Charset: "UTF-8",
+                Data: "Schedules Direct TV Searcher",
+            },
+        },
+        Source: process.env.from,
+    };
+
+    const ses = new AWS.SES({
+        apiVersion: "2010-12-01",
+        accessKeyId: process.env.keyId,
+        secretAccessKey: process.env.secret,
+    });
+
+    return await ses.sendEmail(params).promise();
+};
+
 const getEmailBody = (programmes) => {
     let body = `Hi
     `;
@@ -334,7 +363,9 @@ exports.handler = async (event, context, callback) => {
     );
     const emailBody = getEmailBody(matchedSchedule);
 
-    console.log(emailBody);
+    const emailResult = await sendEmail(emailBody);
+
+    console.log(emailResult);
 
     callback(null, `Found ${matchedSchedule.length} matching programmes`);
 };
