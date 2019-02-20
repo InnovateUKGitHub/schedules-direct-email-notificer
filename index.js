@@ -4,9 +4,13 @@ const sha1 = require("js-sha1");
 const moment = require("moment");
 const AWS = require("aws-sdk");
 
+// set aws region
 AWS.config.update({ region: "eu-west-1" });
 
+// schedules direct lineup
 const lineupId = "GBR-1000014-DEFAULT";
+
+// list of schedules direct channel ids
 const channelData = {
     "30644": "BBC One London",
     "17154": "BBC Two",
@@ -21,6 +25,7 @@ const channelData = {
     "24438": "BBC Radio 5 Live",
 };
 
+// http client used for scheduels direct requests
 let axiosHttpClient = axios.create({
     timeout: 20000,
     headers: {
@@ -29,6 +34,7 @@ let axiosHttpClient = axios.create({
     },
 });
 
+// schedules direct api endpoints
 const URIs = {
     token: "https://json.schedulesdirect.org/20141201/token",
     status: "https://json.schedulesdirect.org/20141201/status",
@@ -37,8 +43,18 @@ const URIs = {
     program: "https://json.schedulesdirect.org/20141201/programs",
 };
 
+/**
+ * Get an array of channel IDs from channel data
+ * @param {object} data
+ * @return {array}
+ */
 const getChannels = (data) => Object.keys(data);
 
+/**
+ * Get a remote file and return the file split by new line
+ * @param {string} url
+ * @return {array}
+ */
 const getRemoteConfig = async (url) => {
     console.log(`Getting ${url}`);
     const response = await axiosHttpClient.get(url);
@@ -46,6 +62,11 @@ const getRemoteConfig = async (url) => {
     return response.data.split("\n");
 };
 
+/**
+ * Extract text from a programme title and description if available
+ * @param {object} programme
+ * @return {string}
+ */
 const getTextFromProgramme = (programme) => {
     let text = "";
 
@@ -66,6 +87,12 @@ const getTextFromProgramme = (programme) => {
     return text;
 };
 
+/**
+ * Filter an array of programmes to exclude programmes whose titles exactly match given titles
+ * @param {array} programmes
+ * @param {array} titles
+ * @return {array}
+ */
 const filterProgrammmeByExcludedTitles = (programmes, titles) => {
     console.log("filterProgrammmeByExcludedTitles...");
 
@@ -74,6 +101,12 @@ const filterProgrammmeByExcludedTitles = (programmes, titles) => {
     );
 };
 
+/**
+ * Filter an array of programmes to exclude programmes which are a genre exactly match given genres
+ * @param {array} programmes
+ * @param {array} genres
+ * @return {array}
+ */
 const filterProgrammmeByExcludedGenres = (programmes, genres) => {
     console.log("filterProgrammmeByExcludedGenres...");
 
@@ -82,6 +115,12 @@ const filterProgrammmeByExcludedGenres = (programmes, genres) => {
     );
 };
 
+/**
+ * Filter an array of programmes to include programmes that have text content matching given keywords
+ * @param {array} programmes
+ * @param {array} keywords
+ * @return {array}
+ */
 const filterProgrammesByKeywords = (programmes, keywords) => {
     console.log("filterProgrammesByKeywords...");
 
@@ -95,6 +134,13 @@ const filterProgrammesByKeywords = (programmes, keywords) => {
     });
 };
 
+/**
+ * Returns a new programme schedule object that merges data from programmes, schedule and stations
+ * @param {object} programme
+ * @param {object} schedule
+ * @param {string} stationId
+ * @return {object}
+ */
 const mergeProgrammeAndSchedule = (programme, schedule, stationId) => ({
     title: programme.titles[0].title120,
     description: programme.descriptions.description1000[0].description,
@@ -103,6 +149,12 @@ const mergeProgrammeAndSchedule = (programme, schedule, stationId) => ({
     station: channelData[stationId],
 });
 
+/**
+ * Filters schedule to return only programmes given
+ * @param {array} schedule
+ * @param {array} matchedProgrammes
+ * @return {array}
+ */
 const filterScheduleByProgrammes = (schedule, matchedProgrammes) => {
     console.log("filterScheduleByProgrammes...");
 
@@ -129,6 +181,11 @@ const filterScheduleByProgrammes = (schedule, matchedProgrammes) => {
     return filteredSchedule;
 };
 
+/**
+ * Makes a HTTP request to schedules direct to get programme details for a given set of programme ids
+ * @param {array} programmeIds
+ * @return {object}
+ */
 const getProgrammeDetails = async (programmeIds) => {
     console.log("getProgrammes...");
     console.log(`count = ${programmeIds.length}`);
@@ -138,6 +195,11 @@ const getProgrammeDetails = async (programmeIds) => {
     return response.data;
 };
 
+/**
+ * Get a list of unique programme ids from a schedule
+ * @param {array} schedule
+ * @return {array}
+ */
 const getProgrammeIdsFromSchedule = (schedule) => {
     // get ids
     const ids = [];
@@ -152,6 +214,11 @@ const getProgrammeIdsFromSchedule = (schedule) => {
     return ids.filter((value, index, self) => self.indexOf(value) === index);
 };
 
+/**
+ * Makes a HTTP request to schedules direct to get schedule data
+ * @param {object} config
+ * @return {object}
+ */
 const getSchedule = async (config) => {
     console.log("getSchedule...");
     const response = await axiosHttpClient.post(URIs.schedule, config);
@@ -159,8 +226,14 @@ const getSchedule = async (config) => {
     return response.data;
 };
 
+/**
+ * Creates a config used o retrieve schedule data
+ * @param {int} dayCount
+ * @param {array} stationIds
+ * @return {object}
+ */
 const getScheduleRequestConfig = (dayCount, stationIds) => {
-    console.log("getToken...");
+    console.log("getScheduleRequestConfig...");
 
     const days = [];
     const configParts = [];
@@ -185,6 +258,12 @@ const getScheduleRequestConfig = (dayCount, stationIds) => {
     return configParts;
 };
 
+/**
+ * Get a schedules direct authorisation token
+ * @param {string} username
+ * @param {string} password
+ * @return {string}
+ */
 const getToken = async (username, password) => {
     console.log("getToken...");
 
@@ -208,6 +287,11 @@ const getToken = async (username, password) => {
     return response.data.token;
 };
 
+/**
+ * Checks if schedules direct is available and user has active membership from a status response
+ * @param {object} status
+ * @return {boolean}
+ */
 const checkStatus = (status) => {
     console.log("checkStatus...");
 
@@ -221,6 +305,10 @@ const checkStatus = (status) => {
     return true;
 };
 
+/**
+ * Makes a HTTP request to schedules direct to get status info
+ * @return {object}
+ */
 const getStatus = async () => {
     console.log("getStatus...");
 
@@ -229,6 +317,11 @@ const getStatus = async () => {
     return response.data;
 };
 
+/**
+ * Makes a HTTP request to schedules direct to add a lineup to a user
+ * @param {string} id
+ * @return {boolean} true if successful
+ */
 const addLineup = async (id) => {
     console.log("addLineup...");
 
@@ -241,6 +334,10 @@ const addLineup = async (id) => {
     return false;
 };
 
+/**
+ * Makes a HTTP request to schedules direct to get lineups
+ * @return {object}
+ */
 const getLineups = async () => {
     console.log("getLineups...");
 
@@ -261,6 +358,11 @@ const getLineups = async () => {
     }
 };
 
+/**
+ * Sends an email via AWS SES
+ * @param {text} body
+ * @return {object} SES Response
+ */
 const sendEmail = async (body) => {
     const params = {
         Destination: {
@@ -290,6 +392,11 @@ const sendEmail = async (body) => {
     return await ses.sendEmail(params).promise();
 };
 
+/**
+ * Gets email body listing programmes found
+ * @param {array} programmes
+ * @return {string}
+ */
 const getEmailBody = (programmes) => {
     let body = `Hi
     `;
@@ -325,6 +432,9 @@ Thanks, Schedule Direct Programme Searcher`;
     return body;
 };
 
+/**
+ * Lambda handler
+ */
 exports.handler = async (event, context, callback) => {
     await getToken(process.env.username, process.env.password);
     const status = checkStatus(await getStatus());
