@@ -25,11 +25,13 @@ const channelData = {
     "24438": "BBC Radio 5 Live",
 };
 
+const userAgent = "Schedules Direct TV Searcher";
+
 // http client used for scheduels direct requests
 let axiosHttpClient = axios.create({
     timeout: 20000,
     headers: {
-        "User-Agent": "Schedules Direct Email Notificer andy.max@aerian.com",
+        "User-Agent": userAgent,
         "Accept-Encoding": "deflate,gzip",
     },
 });
@@ -201,7 +203,8 @@ const getProgrammeDetails = async (programmeIds) => {
  * @return {array}
  */
 const getProgrammeIdsFromSchedule = (schedule) => {
-    // get ids
+    console.log("getProgrammeIdsFromSchedule...");
+
     const ids = [];
 
     schedule.forEach((part) => {
@@ -275,8 +278,7 @@ const getToken = async (username, password) => {
     axiosHttpClient = axios.create({
         timeout: 20000,
         headers: {
-            "User-Agent":
-                "Schedules Direct Email Notificer andy.max@aerian.com",
+            "User-Agent": userAgent,
             token: response.data.token,
             "Accept-Encoding": "deflate,gzip",
         },
@@ -364,6 +366,8 @@ const getLineups = async () => {
  * @return {object} SES Response
  */
 const sendEmail = async (body) => {
+    console.log("sendEmail...");
+
     const params = {
         Destination: {
             ToAddresses: [process.env.recipient],
@@ -398,6 +402,8 @@ const sendEmail = async (body) => {
  * @return {string}
  */
 const getEmailBody = (programmes) => {
+    console.log("getEmailBody...");
+
     let body = `Hi
     `;
 
@@ -479,25 +485,3 @@ exports.handler = async (event, context, callback) => {
 
     callback(null, `Found ${matchedSchedule.length} matching programmes`);
 };
-
-//     // Add a request interceptor
-// axiosHttpClient.interceptors.request.use(function (config) {
-//     // Do something before request is sent
-//     console.log(config);
-//     return config;
-//   }, function (error) {
-//     // Do something with request error
-//     console.log(config);
-//     return Promise.reject(error);
-//   });
-
-// // Add a response interceptor
-// axiosHttpClient.interceptors.response.use(function (response) {
-//     // Do something with response data
-//     console.log(response);
-//     return response;
-//   }, function (error) {
-//     // Do something with response error
-//     console.log(error);
-//     return Promise.reject(error);
-//   });
