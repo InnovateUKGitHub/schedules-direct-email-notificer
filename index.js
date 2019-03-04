@@ -53,15 +53,19 @@ const URIs = {
 const getChannels = (data) => Object.keys(data);
 
 /**
- * Get a remote file and return the file split by new line
+ * Get a remote file and return the file split by new line or split by comma
  * @param {string} url
  * @return {array}
  */
 const getRemoteConfig = async (url) => {
-    console.log(`Getting ${url}`);
-    const response = await axiosHttpClient.get(url);
+    if (url.substr(0, 7) === "http://" || url.substr(0, 8) === "https://") {
+        console.log(`Getting ${url}`);
+        const response = await axiosHttpClient.get(url);
 
-    return response.data.split("\n");
+        return response.data.split("\n");
+    }
+
+    return url.split(",");
 };
 
 /**
