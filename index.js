@@ -62,7 +62,7 @@ const getRemoteConfig = async (url) => {
         console.log(`Getting ${url}`);
         const response = await axiosHttpClient.get(url);
 
-        return response.data.split("\n");
+        return response.data.split("\n").map((value) => value.trim());
     }
 
     return url.split(",");
