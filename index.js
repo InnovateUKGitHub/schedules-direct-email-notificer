@@ -62,7 +62,7 @@ const getRemoteConfig = async (url) => {
         console.log(`Getting ${url}`);
         const response = await axiosHttpClient.get(url);
 
-        return response.data.split("\n").map((value) => value.trim());
+        return response.data.split(/\r?\n/g).map((value) => value.trim());
     }
 
     return url.split(",");
@@ -87,7 +87,9 @@ const getTextFromProgramme = (programme) => {
             text += ` ${programme.descriptions.description1000[0].description}`;
         }
     } catch (Err) {
-        console.log("A programme was missing a title or description");
+        console.log(
+            "A programme was missing a title or description, ignoring..."
+        );
     }
 
     return text;
@@ -117,7 +119,9 @@ const filterProgrammmeByExcludedGenres = (programmes, genres) => {
     console.log("filterProgrammmeByExcludedGenres...");
 
     return programmes.filter(
-        (programme) => !programme.genres.some((genre) => genres.includes(genre))
+        (programme) =>
+            typeof programme.genres !== "undefined" &&
+            !programme.genres.some((genre) => genres.includes(genre))
     );
 };
 
@@ -131,12 +135,25 @@ const filterProgrammesByKeywords = (programmes, keywords) => {
     console.log("filterProgrammesByKeywords...");
 
     return programmes.filter((programme) => {
-        const words = getTextFromProgramme(programme)
+        const text = getTextFromProgramme(programme);
+        const words = text
             .toLowerCase()
             .trim()
-            .split(/\W+/);
+            .match(/\w+(?:'\w+)*/g);
 
-        return words.some((word) => keywords.includes(word));
+        return words.some((word) => {
+            const i = keywords.includes(word);
+
+            if (i) {
+                console.log(
+                    `Title: ${
+                        programme.titles[0].title120
+                    } Keyword Matched: '${word}'`
+                );
+            }
+
+            return i;
+        });
     });
 };
 
