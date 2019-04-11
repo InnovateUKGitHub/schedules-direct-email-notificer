@@ -487,7 +487,10 @@ exports.handler = async (event, context, callback) => {
     const matchedProgrammes = filterProgrammmeByExcludedTitles(
         filterProgrammmeByExcludedGenres(
             filterProgrammesByKeywords(
-                programmes,
+                filterProgrammesByKeywords(
+                    programmes,
+                    await getRemoteConfig(process.env.additionalKeywords)
+                ),
                 await getRemoteConfig(process.env.keywords)
             ),
             await getRemoteConfig(process.env.genres)
@@ -500,7 +503,8 @@ exports.handler = async (event, context, callback) => {
     );
     const emailBody = getEmailBody(matchedSchedule);
 
-    const emailResult = await sendEmail(emailBody);
+    console.log(emailBody);
+    // const emailResult = await sendEmail(emailBody);
 
     console.log(emailResult);
 
