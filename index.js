@@ -140,20 +140,23 @@ const filterProgrammesByKeywords = (programmes, keywords) => {
             .toLowerCase()
             .trim()
             .match(/\w+(?:'\w+)*/g);
+        let match = false;
 
-        return words.some((word) => {
-            const i = keywords.includes(word);
-
-            if (i) {
+        keywords.forEach((keyword) => {
+            if (
+                (keyword.indexOf(" ") === -1 && words.includes(keyword)) ||
+                (keyword.indexOf(" ") !== -1 && text.indexOf(keyword) !== -1)
+            ) {
+                match = true;
                 console.log(
                     `Title: ${
                         programme.titles[0].title120
-                    } Keyword Matched: '${word}'`
+                    },  Keyword Matched: '${keyword}'`
                 );
             }
-
-            return i;
         });
+
+        return match;
     });
 };
 
@@ -502,9 +505,7 @@ exports.handler = async (event, context, callback) => {
         matchedProgrammes
     );
     const emailBody = getEmailBody(matchedSchedule);
-
-    console.log(emailBody);
-    // const emailResult = await sendEmail(emailBody);
+    const emailResult = await sendEmail(emailBody);
 
     console.log(emailResult);
 
