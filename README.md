@@ -4,9 +4,10 @@
 
 * username - schedules direct username
 * password - schedules direct password
-* keywords - http location where to fetch keywords from
-* genres - http location where to fetch genres from
-* titles - http location where to fetch excludes programme titles from
+* keywords - comma seperated list or http location where to fetch keywords from
+* additionalKeywords - comma seperated list or http location where to fetch additional keywords from
+* genres - comma seperated list or http location where to fetch genres from
+* titles - comma seperated list or http location where to fetch excludes programme titles from
 * days - number of days ahead to look
 * recipient - recipient address of email
 * from - sender address of email
@@ -16,7 +17,7 @@
 ## Development
 
 ```npm i
-lambda-local -l index.js -h handler  -E '{"username": "aerianeen", "password": "", "keywords" : "http://play.aerian.com/~andy/keywords.txt", "additionalKeywords" : "innovation,research,development,business,university", "genres": "http://play.aerian.com/~andy/excluded-genres.txt", "titles": "http://play.aerian.com/~andy/excluded-titles.txt", "days": 7, "recipient": "andy.max@aerian.com", "from": "andy.max@aerian.com", "keyId": "", "secret": ""}' -e lambda-local-events/dummy.js -t 60 ```
+lambda-local -l index.js -h handler  -E '{"username": "", "password": "", "keywords" : "", "additionalKeywords" : "innovation,research,development,business,university", "genres": "", "titles": "", "days": 7, "recipient": "", "from": "", "keyId": "", "secret": ""}' -e lambda-local-events/dummy.js -t 60 ```
 
 ## Usage
 
